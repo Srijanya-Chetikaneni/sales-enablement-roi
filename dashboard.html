@@ -291,9 +291,9 @@
 
             // Load CSV files
             Promise.all([
-                fetch('enablement_data/reps.csv').then(r => r.text()),
-                fetch('enablement_data/monthly_attainment.csv').then(r => r.text()),
-                fetch('enablement_data/programs.csv').then(r => r.text())
+                fetch('https://raw.githubusercontent.com/srijanya-chetikaneni/sales-enablement-roi/main/enablement_data/reps.csv').then(r => r.text()),
+                fetch('https://raw.githubusercontent.com/srijanya-chetikaneni/sales-enablement-roi/main/enablement_data/monthly_attainment.csv').then(r => r.text()),
+                fetch('https://raw.githubusercontent.com/srijanya-chetikaneni/sales-enablement-roi/main/enablement_data/programs.csv').then(r => r.text())
             ])
             .then(([repsText, monthlyText, programText]) => {
                 repsData = Papa.parse(repsText, { header: true, dynamicTyping: true }).data.filter(r => r.rep_id);
