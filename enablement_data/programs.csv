@@ -1,0 +1,5 @@
+program,participants,completion_rate,avg_score,revenue_impact_millions,program_cost_millions,quota_lift_pct
+Sales Skills,4455,0.89,84,18.2,1.2,0.26
+Product Knowledge,4150,0.82,79,14.1,0.9,0.19
+Tools Training,3356,0.91,87,8.3,0.8,0.12
+Soft Skills,2319,0.76,75,4.6,0.9,0.07
