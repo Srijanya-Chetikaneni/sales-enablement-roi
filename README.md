@@ -69,10 +69,10 @@ http://localhost:8000/index.html
 
 **4 Interactive Visualizations:**
 
-1. **Quota Attainment Over Time** — Shows training impact ramping in Month 4, reaching 26-point lift by Month 6
-2. **Ramp Time Distribution** — Compares trained vs untrained rep acceleration to productivity
-3. **Program ROI by Type** — Ranks programs by revenue impact (Sales Skills > Product Knowledge > Tools > Soft Skills)
-4. **Key Metrics Summary** — Critical business metrics at a glance
+1. **Quota Attainment Over Time** - Shows training impact ramping in Month 4, reaching 26-point lift by Month 6
+2. **Ramp Time Distribution** - Compares trained vs untrained rep acceleration to productivity
+3. **Program ROI by Type** - Ranks programs by revenue impact (Sales Skills > Product Knowledge > Tools > Soft Skills)
+4. **Key Metrics Summary** - Critical business metrics at a glance
 
 **All metrics are:**
 - ✅ Derived from 110,940 data points (9,247 reps × 12 months)
