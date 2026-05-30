@@ -18,9 +18,9 @@ This dashboard solves that problem by measuring training impact at scale.
 
 ## 📈 Key Findings
 
-**Training drives a permanent 26-point quota lift**
-- Trained reps achieve **87% quota attainment**
-- Untrained reps achieve **61% quota attainment**
+**Training drives a permanent 32-point quota lift**
+- Trained reps achieve **86% quota attainment**
+- Untrained reps achieve **54% quota attainment**
 - Lift persists from Month 4 onward (not temporary)
 
 **Acceleration matters: 48 days faster to productivity**
