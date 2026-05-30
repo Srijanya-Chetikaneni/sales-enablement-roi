@@ -8,7 +8,7 @@
 
 ## 🎯 The Business Problem
 
-Every year, organizations invest millions in sales enablement programs—but struggle to answer one critical question:
+Every year, organizations invest millions in sales enablement programs but struggle to answer one critical question:
 
 **"Which programs actually drive revenue?"**
 
