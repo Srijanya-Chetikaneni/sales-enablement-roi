@@ -201,10 +201,10 @@ sales-enablement-roi/
 
 ## 🚀 Next Steps
 
-1. **View the live dashboard** — [Click here](https://srijanya-chetikaneni.github.io/sales-enablement-roi/)
-2. **Explore the data** — Download CSVs from the repo
-3. **Read the methodology** — See [DATA_EXPLANATION_GUIDE.md](DATA_EXPLANATION_GUIDE.md)
-4. **Run locally** — Follow [Quick Start](#quick-start)
+1. **View the live dashboard** - [Click here](https://srijanya-chetikaneni.github.io/sales-enablement-roi/)
+2. **Explore the data** - Download CSVs from the repo
+3. **Read the methodology** - See [DATA_EXPLANATION_GUIDE.md](DATA_EXPLANATION_GUIDE.md)
+4. **Run locally** - Follow [Quick Start](#quick-start)
 
 ---
 
