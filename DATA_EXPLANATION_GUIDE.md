@@ -27,7 +27,7 @@ Gartner sells **research, advisory services, and consulting** to enterprise clie
 ### Why Does Sales Enablement Matter to Gartner?
 
 From the job posting:
-> "Global Sales & Services Operations...works with sales and services leaders to drive tactical and analytical insights...comprised of nearly 9,000 associates who sell to and service every major function, industry and market sector around the world."
+> "Global Sales & Services Operations...works with sales and services leaders to drive tactical and analytical insights, comprised of nearly 9,000 associates who sell to and service every major function, industry and market sector around the world."
 
 **Translation:** Gartner has 9,000 salespeople spread across the world. If you can improve each one's productivity by just 10%, that's hundreds of millions in additional revenue.
 
@@ -173,7 +173,7 @@ Lift = 86.0% - 56.7% = 29.3 percentage points
 3. If training didn't matter, both groups should perform the same
 4. They don't → **Training causally impacts performance**
 
-**This is a "quasi-experimental design"** — you're using real business data but structuring it like a controlled experiment.
+**This is a "quasi-experimental design"** - you're using real business data but structuring it like a controlled experiment.
 
 ### What The Data Shows Month-by-Month
 
@@ -291,9 +291,6 @@ How it works:
 - It's worth investing MORE in (scale it up)
 - Recommend increasing participation from 73% to 85%
 
-**Talking point for Monday:**
-> "Your Sales Skills program is your workhorse. It's the only program where ROI recovers in less than a month. I'd recommend making it mandatory rather than optional, and increasing completion from 73% to 85%. That additional 12% participation would unlock another $3M in revenue."
-
 ---
 
 ### Insight #2: "Enterprise Segment is Your Biggest Opportunity"
@@ -321,9 +318,6 @@ The gap:
 - Training during slower season (Q1, Q4)
 - Executive sponsorship to make it mandatory
 
-**Talking point for Monday:**
-> "Your Enterprise segment is underserving itself. 54% trained vs 78% in Mid-Market. Since Enterprise has the largest quota ($850K per rep) and training delivers the same ROI there, scaling training from 54% to 70% would unlock $24M in additional revenue with no new salespeople needed."
-
 ---
 
 ### Insight #3: "Ramp Time is a Retention Lever"
@@ -346,8 +340,6 @@ Business impact:
 - If you save 100 reps from leaving = $5-10M in avoided costs
 - Trained reps reach productivity faster = feel successful = stay longer
 
-**Talking point for Monday:**
-> "Ramp time is more than just a KPI—it's a retention lever. Trained reps reach 50% quota 48 days faster. This early momentum improves Year 1 retention by 18%, which saves you $50-100K per prevented departure. For 6,073 trained reps, that's $8-10M in retention value on top of revenue lift."
 
 ---
 
@@ -376,8 +368,5 @@ Impact estimate:
 - Redesign as micro-learning (15-min modules, daily)
 - Live instructor sessions instead of async
 - Gamification/leaderboards to drive completion
-
-**Talking point for Monday:**
-> "I found a process improvement opportunity. Your average time-to-completion is 8.3 weeks, with a 21-day bottleneck in module delivery. If you redesigned this as micro-learning—15-minute daily modules instead of hour-long blocks—you could reduce time-to-completion to 5 weeks and increase completion rate from 66% to 75%. That's nearly 4,000 additional trained reps and $2B in Year 1 revenue impact."
 
 ---
