@@ -27,7 +27,7 @@ Gartner sells **research, advisory services, and consulting** to enterprise clie
 ### Why Does Sales Enablement Matter to Gartner?
 
 From the job posting:
-> "Global Sales & Services Operations...works with sales and services leaders to drive tactical and analytical insights, comprised of nearly 9,000 associates who sell to and service every major function, industry and market sector around the world."
+> "Global Sales & Services Operations works with sales and services leaders to drive tactical and analytical insights, comprised of nearly 9,000 associates who sell to and service every major function, industry and market sector around the world."
 
 **Translation:** Gartner has 9,000 salespeople spread across the world. If you can improve each one's productivity by just 10%, that's hundreds of millions in additional revenue.
 
